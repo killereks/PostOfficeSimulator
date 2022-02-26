@@ -1,0 +1,8 @@
+# maxQueueLength -1 would mean the queue has no limit (only works for maxQueueLength)
+
+maxQueueLength 20
+numServicePoints 5
+closingTime 200
+
+# Other parameters
+averageNewCustomersPerInterval 10

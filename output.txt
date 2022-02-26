@@ -1,0 +1,11 @@
+Max queue length - 20
+Number of service points - 5
+Closing Time - 200
+Average New Customers Per Interval - 10
+
+
+It took extra 17.28 ticks to serve all customers
+Fulfilled - 192.51
+Unfulfilled - 8.84
+Timed-out - 1788.65
+Average waiting time - 0.23
