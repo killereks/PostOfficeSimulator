@@ -54,8 +54,6 @@ int GetLength() {
 	return length;
 }
 
-// FIX MEMORY LEAK!!!!!!!!!!!
-
 NODE* Delete(int index) {
 	NODE* current = head;
 	NODE* previous = NULL;
